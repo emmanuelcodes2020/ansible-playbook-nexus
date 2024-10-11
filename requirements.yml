@@ -1,0 +1,4 @@
+---
+- src: git@gitlab.com:lamtech-tooling/ansible-roles/ansible-role-nexus.git
+  name: ansible-role-nexus
+  scm: git
